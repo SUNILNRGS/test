@@ -1,0 +1,25 @@
+*margin:0px;
+pading:0px;
+nav{
+    background-color: red;
+    height: 40px;
+    border-radius: 10px;
+}
+a{
+    color: gold;
+}
+section{
+    height: 100vh;
+}
+#home{
+    background-color: aqua;
+}
+#women{
+    background-color: red;
+}
+#men{
+    background-color: brown;
+}
+#tranding{
+    background-color: blueviolet;
+}

@@ -1,0 +1,12 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.box{
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    margin: 30px;
+    padding: 30px;
+
+}
